@@ -7,7 +7,7 @@
 
 ## About This Project
 
-Tech Explorer Hub is a curated collection of high-quality computer science resources designed specifically for developers who want to:
+Tech Explorer Hub is a fork of [@wangbin579](https://twitter.com/wangbin579)'s [Enhanced Form MySQL](https://github.com/enhancedformysql) curated collection of high-quality computer science resources designed specifically for developers who want to:
 
 - Learn how authors think from research papers.
 
@@ -19,11 +19,11 @@ Tech Explorer Hub is a curated collection of high-quality computer science resou
 
 ## Learning Resources
 
-Please visit the [learning resources](https://enhancedformysql.github.io/tech-explorer-hub/reading/index.html) link.
+Please visit the [learning resources](https://rockrapids.github.io/tech-explorer-hub/reading/index.html) link.
 
 ## Practice Challenges
 
-Please visit the [practice resources](https://enhancedformysql.github.io/tech-explorer-hub/practice/index.html) link.
+Please visit the [practice resources](https://rockrapids.github.io/tech-explorer-hub/practice/index.html) link.
 
 ## How to Contribute
 
@@ -43,9 +43,9 @@ Copyright @ 2025 wangbin579.
 
 Join the discussion:
 
-- [GitHub Discussions](https://github.com/your-repo/tech-explorer-hub/discussions)
-- Twitter: [@wangbin579](https://twitter.com/wangbin579)
-- Email: wangbin579@gmail.com
+- [GitHub Discussions](https://github.com/rockrapids/tech-explorer-hub/discussions)
+- Twitter: [@MarkBruns](https://twitter.com/MarkBruns)
+- GitHub: [@MarkBruns](https://GitHub.com/MarkBruns)
 
 ## Acknowledgments
 
