@@ -5,17 +5,17 @@
 
 > Bridging the gap between academic research and practical software development.
 
-## About This Project
+## About This Project Repository
 
-Tech Explorer Hub is a fork of [@wangbin579](https://twitter.com/wangbin579)'s [Enhanced Form MySQL](https://github.com/enhancedformysql) curated collection of high-quality computer science resources designed specifically for developers who want to:
+[RockRapids](https://GitHub.com/RockRapids) TechExplorerHub repository is a fork of [@wangbin579](https://twitter.com/wangbin579)'s [Enhanced Form MySQL](https://github.com/enhancedformysql) curated collection of high-quality computer science resources. We are huge fans of [@wangbin579](https://twitter.com/wangbin579)'s simple, *no bs* approach and dependable, failure-free, simple repository structure. Our approach will be similar, but our selections will be chosen similarly, but ***more specifically tailored for volunteer developers of the Rock Rapids community app ecosystem*** who want to help us [dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) this content since ... *Humans learn best by teaching others and teach best by learning from others.* 
 
-- Learn how authors think from research papers.
+- Learn how authors and other volunteer developers working on the Rock Rapids community app ecosystem think about research papers and why.
 
-- Unlike academic databases, we focus on papers and books that have real-world applications.
+- We focus on papers and books that have applicable, real-world applications in our app ecosystem, rather than just academic databases or hypeware.
 
-- Materials are carefully selected to identify the best resources for developers.
+- Materials will be carefully selected to identify the tightest, most relevant resources for our developers, especially those learning about our system.
 
-- Challenge problems are based on real engineering scenarios.
+- Challenge problems will be based on the most relevant, real-world engineering scenarios, that matter for our community app ecosystem.
 
 ## Learning Resources
 
@@ -37,7 +37,7 @@ We welcome:
 ## License
 
 All content is licensed under [GNU GPL v3.0](LICENSE).  
-Copyright @ 2025 wangbin579.
+Copyright @ 2025 [@RockRapids](https://GitHub.com/RockRapids) 
 
 ## Community
 
@@ -45,8 +45,8 @@ Join the discussion:
 
 - [GitHub Discussions](https://github.com/rockrapids/tech-explorer-hub/discussions)
 - Twitter: [@MarkBruns](https://twitter.com/MarkBruns)
-- GitHub: [@MarkBruns](https://GitHub.com/MarkBruns)
+- GitHub: [@MarkBruns](https://GitHub.com/MarkBruns), dev at [@RockRapids](https://GitHub.com/RockRapids) 
 
 ## Acknowledgments
 
-Thanks to all contributors and the open source community for making this possible!
+Thanks to ALL contributors and the entire open source community of the world for making this possible!
